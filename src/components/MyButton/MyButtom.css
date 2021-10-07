@@ -1,0 +1,77 @@
+.success {
+    background-color: rgb(73, 177, 52);
+    padding: 1px 7px 2px;
+    text-rendering: auto;
+    border:none;
+    border-radius: 9%;
+    color: initial;
+    display: inline-block;
+    text-align: start;
+    margin: 1em;
+    font: 400 11px system-ui;
+    width: 100px ;
+    height: 50px;
+    font-size: 18px;
+}
+
+.primary {
+    background-color: rgb(87, 50, 173);
+    padding: 1px 7px 2px;
+    border:none;
+    border-radius: 9%;
+    text-rendering: auto;
+    color: initial;
+    display: inline-block;
+    text-align: start;
+    margin: 1em;
+    font: 400 11px system-ui;
+    width: 100px ;
+    height: 50px;
+    font-size: 18px;
+}
+
+.secondary {
+    background-color: gray;
+    padding: 1px 7px 2px;
+    text-rendering: auto;
+    border:none;
+    border-radius: 9%;
+    color: initial;
+    display: inline-block;
+    text-align: start;
+    margin: 1em;
+    font: 400 11px system-ui;
+    width: 100px ;
+    height: 50px;
+    font-size: 18px;
+}
+.danger {
+    background-color: rgb(235, 18, 18);
+    padding: 1px 7px 2px;
+    text-rendering: auto;
+    border:none;
+    border-radius: 9%;
+    color: initial;
+    display: inline-block;
+    text-align: start;
+    margin: 1em;
+    font: 400 11px system-ui;
+    width: 100px ;
+    height: 50px;
+    font-size: 18px;
+}
+.warning {
+    background-color: rgb(255, 217, 0);
+    padding: 1px 7px 2px;
+    text-rendering: auto;
+    border:none;
+    border-radius: 9%;
+    color: initial;
+    display: inline-block;
+    text-align: start;
+    margin: 1em;
+    font: 400 11px system-ui;
+    width: 100px ;
+    height: 50px;
+    font-size: 18px;
+}
