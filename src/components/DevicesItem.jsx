@@ -1,0 +1,51 @@
+export const devices = [
+  {
+    id:1,
+    name:'Samsung A50',
+    brand:'Samsung',
+    description:'cool',
+    price: 500,
+  },
+  {
+    id:2,
+    name:'Samsung S50',
+    brand:'Samsung',
+    description:'nice phone',
+    price: 600,
+  },
+  {
+    id:3,
+    name:'Iphone 12',
+    brand:'Apple',
+    description:'costs too much',
+    price: 920,
+  },
+  {
+    id:4,
+    name:'Nokia 980',
+    brand:'Nokia',
+    description:'you cant break it',
+    price: 350,
+  },
+  {
+    id:5,
+    name:'Redmi 8',
+    brand:'Xiaomi',
+    description:'great',
+    price: 530,
+  },
+  {
+    id:6,
+    name:'Lenovo',
+    brand:'Samsung',
+    description:'cool',
+    price: 650,
+  },
+  {
+    id:7,
+    name:'_Some_phone_',
+    brand:'New_phone_company',
+    description:'BEST',
+    price: 700,
+  },
+]
